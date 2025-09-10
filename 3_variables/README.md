@@ -8,7 +8,7 @@ This folder teaches you how to create containers for your data - think of variab
 - `var` keyword for explicit declaration
 - Type inference when Go can guess the type
 - Short declaration `:=` for quick variable creation inside functions
-- How to declare variables without initial values
+- How to declare variables without knowing their values at first and assigning them later?
 
 ## The Code Explained Simply
 
