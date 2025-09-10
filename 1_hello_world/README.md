@@ -20,12 +20,6 @@ func main() {       // The main function - where execution starts
 }
 ```
 
-**Think of it like this:**
-- `package main` = "This is a program that can be run"
-- `import "fmt"` = "I want to use printing functions"  
-- `func main()` = "Start here when the program runs"
-- `fmt.Println()` = "Show this text on the screen"
-
 ## Key Concepts to Remember
 
 1. **Package Declaration**: Always starts with `package` - tells Go what this file is
